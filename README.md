@@ -1,0 +1,2 @@
+# sql
+Entrega práctica SQL
